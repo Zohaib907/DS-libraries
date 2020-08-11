@@ -1,3 +1,3 @@
 # Data Science Libraries
-Numpy
+Numpy,
 Pandas
