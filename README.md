@@ -1,2 +1,3 @@
-# NUMPY_Library
-DS librarie#1
+# Data Science Libraries
+Numpy
+Pandas
